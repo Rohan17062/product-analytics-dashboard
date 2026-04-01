@@ -1,5 +1,9 @@
 # 🎧 Product Analytics Dashboard – Music Streaming App
 
+## 🌐 Live Dashboard
+[Click here to view streamlit dashboard](https://appuct-analytics-dashboard-tsv95gnxxmjenh4ydjeo4f.streamlit.app/)
+
+
 ## 📌 Project Overview
 This project presents an end-to-end **Product Analytics case study** on a music streaming application.  
 
