@@ -4,8 +4,8 @@ import pandas as pd
 st.title("🎧 Music App Dashboard")
 
 # load data
-users = pd.read_csv("users (1).csv")
-subs = pd.read_csv("subscriptions.csv")
+users = pd.read_csv("data/app_users_info.csv")
+subs = pd.read_csv("data/subscriptions.csv")
 
 # calculations
 total_users = users['user_id'].nunique()
@@ -23,7 +23,7 @@ col3.metric("Conversion %", round(conversion, 2))
 
 
 # load events
-events = pd.read_csv("events.csv")
+events = pd.read_csv("data/events.csv")
 
 st.subheader("🔻Funnel Stage Counts")
 
