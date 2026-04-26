@@ -2,22 +2,22 @@
 
 ⚡ Quick Summary
 
--> End-to-end product analytics project analyzing user journey in a music streaming app
--> Identified key drop-offs in funnel, low Day-1 retention, and weak long-term engagement
--> Performed funnel, retention, and cohort analysis using SQL and Python
--> Found major monetization issue at playlist → premium stage (~21% drop-off)
--> Estimated business impact: improving conversion from ~79% to 85% can increase subscribers by ~200+ users
--> Provided data-driven recommendations to improve onboarding, engagement, and revenue
+1. End-to-end product analytics project analyzing user journey in a music streaming app
+2. Identified key drop-offs in funnel, low Day-1 retention, and weak long-term engagement
+3. Performed funnel, retention, and cohort analysis using SQL and Python
+4. Found major monetization issue at playlist → premium stage (~21% drop-off)
+5. Estimated business impact: improving conversion from ~79% to 85% can increase subscribers by ~200+ users
+6. Provided data-driven recommendations to improve onboarding, engagement, and revenue
 
 🌐 Live Dashboard
 [https://appuct-analytics-dashboard-tsv95gnxxmjenh4ydjeo4f.streamlit.app/](url)
 
 📌 Project Overview
 
--> This project presents an end-to-end Product Analytics case study on a music streaming application
--> Focuses on analyzing user behavior across the product lifecycle
--> Demonstrates how data can be used to improve engagement, retention, and monetization
--> Simulates real-world product decision-making using analytics
+1. This project presents an end-to-end Product Analytics case study on a music streaming application
+2. Focuses on analyzing user behavior across the product lifecycle
+3. Demonstrates how data can be used to improve engagement, retention, and monetization
+4. Simulates real-world product decision-making using analytics
 
 🎯 Business Problem
 
@@ -29,18 +29,18 @@
 
 🎯 Objective
 
--> Identify key drop-off points in the user journey
--> Measure user retention and engagement over time
--> Evaluate behavior across different user cohorts
--> Provide actionable recommendations to improve product performance
+1. Identify key drop-off points in the user journey
+2. Measure user retention and engagement over time
+3. Evaluate behavior across different user cohorts
+4. Provide actionable recommendations to improve product performance
 
 🛠️ Tools & Technologies Used
 
--> SQL – Data analysis (joins, aggregations, window functions)
--> Python (Pandas, NumPy) – Data processing
--> Matplotlib / Seaborn – Visualization
--> Streamlit – Interactive dashboard
--> Google Colab – Development environment
+1. SQL – Data analysis (joins, aggregations, window functions)
+2. Python (Pandas, NumPy) – Data processing
+3. Matplotlib / Seaborn – Visualization
+4. Streamlit – Interactive dashboard
+5. Google Colab – Development environment
 
 📊 Data Overview
 
@@ -54,9 +54,9 @@ Events data → user actions (app_open, search_song, play_song, like_song, add_t
 Subscription data → premium conversion
 
 Key Characteristics:
--> Structured funnel flow
--> Tracks complete user lifecycle
--> Designed for product analytics use cases
+1. Structured funnel flow
+2. Tracks complete user lifecycle
+3. Designed for product analytics use cases
 
 📈 Analysis Performed
 
